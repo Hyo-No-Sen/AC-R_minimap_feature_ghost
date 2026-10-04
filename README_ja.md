@@ -1,3 +1,4 @@
+🚗 [English](README.md) | [日本語](README_ja.md) 🚗
 # ACR_minimap_features_ghost_r0.6 の説明書
 
 原本は日本語です。
